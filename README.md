@@ -2,31 +2,28 @@
 Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realisdade virtual/mista, tudo envolve a tecnologa! Incrível, não!?
 Bom, eu estudei Ciência da Computação até o 4o semestre, e tive que trancar por questões de saúde. Hoje em dia estudo muito o que senti dificuldade na faculdade e vejo que estou evoluindo muito bem.
 
-## Hard skills em desenvolvimento
+## Hard skills
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" heigth="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" heigth="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" heigth="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" heigth="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/postgresql-45444A?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3" alt="CSS3"/>
 </div>
 <p></p>
 
--  Java;
--  PostgreSQL;
--  HTML5;
--  CSS3 e;
--  JavaScript.
-
-## Ferramentas e tecnologias
+## Ferramentas, tecnologias e bibliotecas
 <div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" heigth="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" heigth="50" alt="Spring Framework"/>
+  <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/spring%20boot-grey?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20framework-grey?style=for-the-badge&logo=spring" alt="Spring Framework"/>
 </div>
 <p></p>
 
--  Git e;
--  Spring Framework.
+## IDEs
+<div>
+  <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" alt="Intellij IDEA"/>
+</div>
 
 ## Meus projetos
 
@@ -46,6 +43,6 @@ Eu pretendo ser uma pessoa desenvolvedora fullstack utilizando Java como backend
 ## Status
 <div>
 <a href="https://github.com/haimonvieira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimonvieira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=haimonvieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimonvieira&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=haimonvieira&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
 </div>
