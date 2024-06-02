@@ -1,14 +1,29 @@
 # Olá! Sou Haimon, muito bom ter você por aqui!
-Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realisdade virtual/mista, tudo envolve a tecnologa! Incrível, não!?
+Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista, tudo envolve a tecnologia! Incrível, não!?
 Bom, eu estudei Ciência da Computação até o 4o semestre, e tive que trancar por questões de saúde. Hoje em dia estudo muito o que senti dificuldade na faculdade e vejo que estou evoluindo muito bem.
 
 ## Hard skills
+
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <h3>Legenda</h2>
+  <ul>
+    <li> <img src="https://img.shields.io/badge/backend-grey?style=for-the-badge"/> </li>
+    <li> <img src="https://img.shields.io/badge/frontend-008F42?style=for-the-badge"/> </li>
+    <li> <img src="https://img.shields.io/badge/banco%20de%20dados-223385?style=for-the-badge"/> </li>
+  </ul> 
+</div>
+
+<p></p>
+
+<div>
+  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/postgresql-45444A?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/postgresql-223385?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/html5-008F42?style=for-the-badge&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-008F42?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/c%20language-grey?style=for-the-badge&logo=c" alt="C Language"/>
+  <img src="https://img.shields.io/badge/mysql-223385?style=for-the-badge&logo=mysql" alt="MySQL"/>
+
 </div>
 <p></p>
 
