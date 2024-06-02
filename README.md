@@ -1,6 +1,6 @@
 # Olá! Sou Haimon, muito bom ter você por aqui!
 Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista, tudo envolve a tecnologia! Incrível, não!?
-Bom, eu estudei Ciência da Computação até o 4o semestre, e tive que trancar por questões de saúde. Hoje em dia estudo muito o que senti dificuldade na faculdade e vejo que estou evoluindo muito bem.
+Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo muito o que senti dificuldade na faculdade e vejo que estou evoluindo muito bem.
 
 ## Hard skills
 
