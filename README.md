@@ -44,6 +44,7 @@ Bom, eu estudei Ciência da Computação até o 4o semestre, e tive que trancar 
 
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
 - [Java: Desafio sem Web](https://github.com/haimonvieira/java-desafio-web)
+-  [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
 
 ## Entre em contato comigo:
 
