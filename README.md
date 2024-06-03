@@ -44,7 +44,11 @@ Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo
 
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
 - [Java: Desafio sem Web](https://github.com/haimonvieira/java-desafio-web)
--  [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
+- [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
+
+## Experiência
+
+Coemecei a aprender Java em 2023 jutamente com a biblioteca Swing para fazer sistemas básicos com GUI, desde lá utilizei o JDBC para se conectar com o banco de dados.
 
 ## Entre em contato comigo:
 
@@ -54,7 +58,7 @@ Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo
 </div>
 
 ## Qual meu foco principal?
-Eu pretendo ser uma pessoa desenvolvedora fullstack utilizando Java como backend, pois vi essa necessidade nos projetos que pretendo fazer brevemente.
+Busco um estágio ou iniciar como desenvolvedor júnior para ser uma pessoa desenvolvedora fullstack utilizando Java como backend. Tenho disponibilidade de 8h/dia.
 
 ## Status
 <div>
