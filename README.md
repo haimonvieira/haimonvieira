@@ -1,6 +1,7 @@
 # Olá! Sou Haimon, muito bom ter você por aqui!
-Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista, tudo envolve a tecnologia! Incrível, não!?
-Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo muito o que senti dificuldade na faculdade e vejo que estou evoluindo muito bem.
+Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista e muito mais. Incrível, não!?
+
+Atualmente, estou no 4º semestre de Ciências da Computação e estou focando bastante nas áreas que senti dificuldade durante o curso. Tenho percebido uma evolução constante no meu aprendizado.
 
 ## Hard skills
 
@@ -13,9 +14,10 @@ Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo
   </ul> 
 </div>
 
-<p></p>
+<br>
 
-<div>
+<div align="center">
+  
   <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/postgresql-223385?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
@@ -25,10 +27,18 @@ Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo
   <img src="https://img.shields.io/badge/mysql-223385?style=for-the-badge&logo=mysql" alt="MySQL"/>
 
 </div>
-<p></p>
+
+## Soft skills
+
+-  Resolução de problemas;
+-  Proatividade;
+-  Organização do ambiente;
+-  Organização de tempo e;
+-  Explicar conceitos complexos de forma básica. 
 
 ## Ferramentas, tecnologias e bibliotecas
 <div>
+  <br>
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/spring%20boot-grey?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring%20framework-grey?style=for-the-badge&logo=spring" alt="Spring Framework"/>
@@ -48,7 +58,7 @@ Bom, estudo Ciências da Computação e estou no 4o semestre. Hoje em dia estudo
 
 ## Experiência
 
-Coemecei a aprender Java em 2023 jutamente com a biblioteca Swing para fazer sistemas básicos com GUI, desde lá utilizei o JDBC para se conectar com o banco de dados.
+Comecei a aprender Java em 2023, juntamente com a biblioteca Swing para desenvolver sistemas básicos com GUI. Desde então, utilizei JDBC para conectar aos bancos de dados.
 
 ## Entre em contato comigo:
 
@@ -57,12 +67,13 @@ Coemecei a aprender Java em 2023 jutamente com a biblioteca Swing para fazer sis
   <a href="https://www.linkedin.com/in/haimonvieira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Qual meu foco principal?
-Busco um estágio ou iniciar como desenvolvedor júnior para ser uma pessoa desenvolvedora fullstack utilizando Java como backend. Tenho disponibilidade de 8h/dia.
+## Foco principal
+
+Busco um estágio ou uma posição como desenvolvedor júnior, com o objetivo de me tornar um desenvolvedor fullstack utilizando Java como backend. Tenho disponibilidade de 8 horas por dia.
 
 ## Status
-<div>
-<a href="https://github.com/haimonvieira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimonvieira&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=haimonvieira&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/haimonvieira">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimonvieira&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=haimonvieira&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
 </div>
