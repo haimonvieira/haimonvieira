@@ -53,7 +53,7 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 ## Meus projetos
 
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
-- [Java: Desafio sem Web](https://github.com/haimonvieira/java-desafio-web)
+- [Java: Desafio Web](https://github.com/haimonvieira/java-desafio-web)
 - [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
 
 ## Experiência
