@@ -47,6 +47,7 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 ## IDEs
 <div>
   <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" alt="Intellij IDEA"/>
+  <img src="https://img.shields.io/badge/NetBeans IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"/>
 </div>
 
 ## Meus projetos
