@@ -50,7 +50,7 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
   <img src="https://img.shields.io/badge/NetBeans IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"/>
 </div>
 
-## Projetos ONE
+## Projetos ONE/Alura
 
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
 - [Java: Desafio Web](https://github.com/haimonvieira/java-desafio-web)
@@ -59,6 +59,10 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 ## Meus Projetos
 
 - [Bitwarden Import](https://github.com/haimonvieira/bitwarden-import)
+
+## Projetos de Aperfeiçoamentos
+
+-  [Java com Machine Learning](https://github.com/haimonvieira/machine-learning-senai)
 
 ## Experiência
 
