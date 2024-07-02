@@ -60,7 +60,7 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 
 - [Bitwarden Import](https://github.com/haimonvieira/bitwarden-import)
 
-## Projetos de Aperfeiçoamentos
+## Projetos de Aperfeiçoamento
 
 -  [Java com Machine Learning](https://github.com/haimonvieira/machine-learning-senai)
 
