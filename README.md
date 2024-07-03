@@ -55,6 +55,10 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
 - [Java: Desafio Web](https://github.com/haimonvieira/java-desafio-web)
 - [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
+- [Fipe API](https://github.com/haimonvieira/fipe-api)
+- [Screenmatch: Spring sem Web](https://github.com/haimonvieira/screenmatch-spring-sem-web)
+- [Conversor de moeda](https://github.com/haimonvieira/conversor-de-moeda)
+- [API RESTful: Voll.med API](https://github.com/haimonvieira/vollmed-api)
 
 ## Meus Projetos
 
