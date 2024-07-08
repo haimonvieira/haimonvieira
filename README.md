@@ -54,20 +54,24 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 
 ## Projetos ONE/Alura
 
+### Challenges
 - [LiterAlura](https://github.com/haimonvieira/challenge-literalura)
+- [Fórum Hub API REST](https://github.com/haimonvieira/challenge-forum-hub)
+
+### Desafios realizados durante o curso
 - [Java: Desafio Web](https://github.com/haimonvieira/java-desafio-web)
 - [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
 - [Fipe API](https://github.com/haimonvieira/fipe-api)
-- [Screenmatch: Spring sem Web](https://github.com/haimonvieira/screenmatch-spring-sem-web)
 - [Conversor de moeda](https://github.com/haimonvieira/conversor-de-moeda)
+
+### Projetos realizados durante o curso
+- [Screenmatch: Spring sem Web](https://github.com/haimonvieira/screenmatch-spring-sem-web)
 - [API RESTful: Voll.med API](https://github.com/haimonvieira/vollmed-api)
 
 ## Meus Projetos
-
 - [Bitwarden Import](https://github.com/haimonvieira/bitwarden-import)
 
 ## Projetos de Aperfeiçoamento
-
 -  [Java com Machine Learning](https://github.com/haimonvieira/machine-learning-senai)
 
 ## Experiência
