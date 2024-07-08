@@ -32,6 +32,7 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 
 -  Resolução de problemas;
 -  Proatividade;
+-  Boa comunicação;
 -  Organização do ambiente;
 -  Organização de tempo e;
 -  Explicar conceitos complexos de forma básica. 
