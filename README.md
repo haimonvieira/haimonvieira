@@ -36,11 +36,12 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 -  Organização de tempo e;
 -  Explicar conceitos complexos de forma básica. 
 
-## Ferramentas, tecnologias e bibliotecas
+## Ferramentas e tecnologias
 <div>
   <br>
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/spring%20boot-grey?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
 </div>
 <p></p>
 
