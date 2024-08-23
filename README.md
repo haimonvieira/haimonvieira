@@ -60,15 +60,6 @@ Atualmente, estou no 4º semestre de Ciências da Computação e estou focando b
 - [Fórum Hub API REST](https://github.com/haimonvieira/challenge-forum-hub)
 - [Conversor de moeda](https://github.com/haimonvieira/conversor-de-moeda)
 
-### Desafios realizados durante o curso
-- [Java: Desafio Web](https://github.com/haimonvieira/java-desafio-web)
-- [Decodificador de texto](https://github.com/haimonvieira/decodificador-de-texto)
-- [Fipe API](https://github.com/haimonvieira/fipe-api)
-
-### Projetos realizados durante o curso
-- [Screenmatch: Spring sem Web](https://github.com/haimonvieira/screenmatch-spring-sem-web)
-- [API RESTful: Voll.med API](https://github.com/haimonvieira/vollmed-api)
-
 ## Meus Projetos
 - [Bitwarden Import](https://github.com/haimonvieira/bitwarden-import)
 
