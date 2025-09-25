@@ -1,7 +1,7 @@
 # Olá! Sou Haimon, muito bom ter você por aqui!
-Tenho 22 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista e muito mais. Incrível, não!?
+Tenho 23 anos, sou um entusiasta da tecnologia, praticamente assisto todos os eventos que se refere a tecnologia no geral, como smartphones, IA, apresentações de chips novos, realidade virtual/mista e muito mais. Incrível, não!?
 
-Atualmente, estou no 4º semestre de Ciências da Computação e estou focando bastante nas áreas que senti dificuldade durante o curso. Tenho percebido uma evolução constante no meu aprendizado.
+Atualmente, estou no 1º semestre de Desenvolvimento de Software Multiplataforma e estou focando bastante nas áreas que senti dificuldade durante o curso. Tenho percebido uma evolução constante no meu aprendizado.
 
 ## Hard skills
 
